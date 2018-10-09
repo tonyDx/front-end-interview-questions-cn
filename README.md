@@ -3,7 +3,7 @@
 <!--more-->
 
 <p align="center">
-<img alt="FrontEndInterviewQuestions" src="https://github.com/tonyDx/front-end-interview-questions-cn/blob/master/assets/main.png?raw=true">
+<img alt="FrontEndInterviewQuestions" src="https://raw.githubusercontent.com/tonyDx/front-end-interview-questions-cn/master/assets/main.jpg">
 </p>
 
 
